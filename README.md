@@ -15,7 +15,7 @@
 
 I worked on a Customer Segmentation Dashboard for an imaginary bank called Nova.The goal was to analyze customer behavior and group them into meaningful segments to support better decision-making. Using Excel, I explored customer by generation, customer loyalty segmentation, customer wealth profile, customer growth timeline and professional profile of customer base to create a simple, interactive dashboard.
 
-![Dashboard](jpg)
+![Dashboard](dashboard PNG)
 
 ![photo_2025-11-19_12-57-23](https://github.com/user-attachments/assets/fa640833-7361-4c71-a84e-f18ec80fe791)
 
@@ -52,7 +52,7 @@ EDA involved exploring the customers data to answer key questions, such as:
  - Who their customr by income bracket
    
    ### Data Analysis
-2
+
    Include some interesting code/feature worked with
 
 ```power query
@@ -80,3 +80,8 @@ Based on the analysis, we recommend the following actions:
 - Basic Conditional Logic
 - No Temporal Analysis
 - Static Dashboard Environment
+
+😄
+💻
+
+`Column_1`
