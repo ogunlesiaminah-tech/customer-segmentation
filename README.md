@@ -15,6 +15,10 @@
 
 I worked on a Customer Segmentation Dashboard for an imaginary bank called Nova.The goal was to analyze customer behavior and group them into meaningful segments to support better decision-making. Using Excel, I explored customer by generation, customer loyalty segmentation, customer wealth profile, customer growth timeline and professional profile of customer base to create a simple, interactive dashboard.
 
+![Dashboard](jpg)
+
+![photo_2025-11-19_12-57-23](https://github.com/user-attachments/assets/fa640833-7361-4c71-a84e-f18ec80fe791)
+
 ### Data Sources
 
 Customer Data:The primary dataset used for this analysis is the "customers_data.csv" file, containing detailed information about each customer that patronise the company.
