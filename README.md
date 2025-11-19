@@ -1,10 +1,14 @@
 # Customer Segmentation
 ## Table of Contents
  - [Project Overview](#project-overview)
- - [Data Source](#data-source)
+ - [Data Sources](#data-sources)
  - [Tool](#tool)
- - [Data Cleaning/Preparation](#data-cleaning/preparation)
- - 
+ - [Data Preparation](#data-preparation)
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
+ - [Data Analysis](#data-analysis)
+ - [Results](#results)
+ - [Recommendation](#recommendation)
+ - [Limitation](#limitation)
 
 
 ### Project Overview 
@@ -23,7 +27,7 @@ Customer Data:The primary dataset used for this analysis is the "customers_data.
  - Slicers 
      
 
-   ### Data Cleaning/Preparation
+   ### Data Preparation
 
    In the intial data preparation phrase, we performed the following tasks:
    1. Data loading and inspectation.
@@ -44,7 +48,7 @@ EDA involved exploring the customers data to answer key questions, such as:
  - Who their customr by income bracket
    
    ### Data Analysis
-
+2
    Include some interesting code/feature worked with
 
 ```power query
@@ -54,9 +58,21 @@ If income <= 300000 then High
 Else Premium
 ```
 
-### Results/Findings
+### Results
 
 1. A large portion of customers fall under the Low income segment
 2. The majority of customers are in the boomers age group, which represents the bank's most active customer base
+
 ### Recommendation
 Based on the analysis, we recommend the following actions:
+ - Develop Tailored Marketing Campaigns by Income Group
+ - Strengthen Digital Banking for Younger Customers
+ - Increase Retention Programs for High-Value Customers
+ - Provide Financial Education for boomer age group Customers
+ - Use Segmentation to Improve Revenue Forecasting
+2
+### Limitation
+- Limited Variables for Segmentation
+- Basic Conditional Logic
+- No Temporal Analysis
+- Static Dashboard Environment
